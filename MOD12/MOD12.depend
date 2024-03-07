@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1670765392 source:c:\users\linta\onedrive\documents\_college_\_s3_\[ std ]\tp\mod12\main.cpp
+	"flight.h"
+
+1670748312 c:\users\linta\onedrive\documents\_college_\_s3_\[ std ]\tp\mod12\flight.h
+	<iostream>
+
+1670765392 source:c:\users\linta\onedrive\documents\_college_\_s3_\[ std ]\tp\mod12\flight.cpp
+	"flight.h"
+

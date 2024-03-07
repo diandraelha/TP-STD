@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1670126708 source:c:\users\linta\onedrive\documents\_college_\_s3_\[ std ]\tp\mod11\main.cpp
+	"CSLL.h"
+
+1670126483 c:\users\linta\onedrive\documents\_college_\_s3_\[ std ]\tp\mod11\csll.h
+	<iostream>
+
+1670126748 source:c:\users\linta\onedrive\documents\_college_\_s3_\[ std ]\tp\mod11\csll.cpp
+	"CSLL.h"
+

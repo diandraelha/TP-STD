@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1669556316 source:c:\users\linta\onedrive\documents\_college_\_s3_\[ std ]\tp\mod10\main.cpp
+	"Stack.h"
+
+1669554412 c:\users\linta\onedrive\documents\_college_\_s3_\[ std ]\tp\mod10\stack.h
+	<iostream>
+
+1669557432 source:c:\users\linta\onedrive\documents\_college_\_s3_\[ std ]\tp\mod10\stack.cpp
+	"Stack.h"
+

@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1672579295 source:c:\users\linta\onedrive\documents\_college_\_s3_\[ std ]\tp\mod15\main.cpp
+	"Bintree.h"
+
+1672577922 c:\users\linta\onedrive\documents\_college_\_s3_\[ std ]\tp\mod15\bintree.h
+	<iostream>
+
+1672578766 source:c:\users\linta\onedrive\documents\_college_\_s3_\[ std ]\tp\mod15\bintree.cpp
+	"Bintree.h"
+

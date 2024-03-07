@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1668344745 source:c:\users\linta\onedrive\documents\_college_\_s3_\[ std ]\tp\mod8\main.cpp
+	"MOD8.h"
+
+1668336680 c:\users\linta\onedrive\documents\_college_\_s3_\[ std ]\tp\mod8\mod8.h
+	<iostream>
+
+1668336973 source:c:\users\linta\onedrive\documents\_college_\_s3_\[ std ]\tp\mod8\mod8.cpp
+	"MOD8.h"
+

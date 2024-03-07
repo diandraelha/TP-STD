@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1667743072 source:c:\users\linta\onedrive\documents\_college_\_s3_\[ std ]\tp\mod7\main.cpp
+	"MOD7.H"
+
+1667743645 c:\users\linta\onedrive\documents\_college_\_s3_\[ std ]\tp\mod7\mod7.h
+	<iostream>
+
+1667743829 source:c:\users\linta\onedrive\documents\_college_\_s3_\[ std ]\tp\mod7\mod7.cpp
+	"MOD7.H"
+

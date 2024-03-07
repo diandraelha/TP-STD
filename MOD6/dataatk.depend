@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1667145959 source:c:\users\linta\onedrive\documents\_college_\_s3_\[ std ]\tp\dataatk\atk.cpp
+	"atk.h"
+
+1667144358 c:\users\linta\onedrive\documents\_college_\_s3_\[ std ]\tp\dataatk\atk.h
+	<iostream>
+
+1667145028 source:c:\users\linta\onedrive\documents\_college_\_s3_\[ std ]\tp\dataatk\main.cpp
+	"atk.h"
+

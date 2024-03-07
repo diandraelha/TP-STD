@@ -1,0 +1,28 @@
+# depslib dependency file v1.0
+1665930677 source:c:\users\linta\onedrive\documents\_college_\_s3_\[ std ]\tp week 4\main.cpp
+	"TP week 4.h"
+
+1665927759 c:\users\linta\onedrive\documents\_college_\_s3_\[ std ]\tp week 4\tp week 4.h
+	<iostream>
+
+1665930556 source:c:\users\linta\onedrive\documents\_college_\_s3_\[ std ]\tp week 4\tp week 4.cpp
+	"TP week 4.h"
+
+1665934478 source:c:\users\linta\onedrive\documents\_college_\_s3_\[ std ]\tp\tp week 4\main.cpp
+	"TP week 4.h"
+
+1665927759 c:\users\linta\onedrive\documents\_college_\_s3_\[ std ]\tp\tp week 4\tp week 4.h
+	<iostream>
+
+1665935756 source:c:\users\linta\onedrive\documents\_college_\_s3_\[ std ]\tp\tp week 4\tp week 4.cpp
+	"TP week 4.h"
+
+1665934478 source:c:\users\linta\onedrive\documents\_college_\_s3_\[ std ]\tp\mod4\main.cpp
+	"TP week 4.h"
+
+1665927759 c:\users\linta\onedrive\documents\_college_\_s3_\[ std ]\tp\mod4\tp week 4.h
+	<iostream>
+
+1665935756 source:c:\users\linta\onedrive\documents\_college_\_s3_\[ std ]\tp\mod4\tp week 4.cpp
+	"TP week 4.h"
+

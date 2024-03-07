@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1664721930 source:c:\users\linta\onedrive\documents\_college_\_s3_\[ std ]\tp\week 2\hello.h\hello.cpp
+	"hello.h"
+
+1664718371 c:\users\linta\onedrive\documents\_college_\_s3_\[ std ]\tp\week 2\hello.h\hello.h
+	<iostream>
+	<cstdlib>
+

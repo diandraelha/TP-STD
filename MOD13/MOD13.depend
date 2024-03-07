@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1671370891 source:c:\users\linta\onedrive\documents\_college_\_s3_\[ std ]\tp\mod13\main.cpp
+	"Graph..h"
+
+1671370132 c:\users\linta\onedrive\documents\_college_\_s3_\[ std ]\tp\mod13\graph..h
+	<iostream>
+
+1671370151 source:c:\users\linta\onedrive\documents\_college_\_s3_\[ std ]\tp\mod13\graph.cpp
+	"Graph..h"
+

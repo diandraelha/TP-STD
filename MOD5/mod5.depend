@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1666450186 source:c:\users\linta\onedrive\documents\_college_\_s3_\[ std ]\mod5\main.cpp
+	"mod5.h"
+
+1666450506 c:\users\linta\onedrive\documents\_college_\_s3_\[ std ]\mod5\mod5.h
+	<iostream>
+
+1666450508 source:c:\users\linta\onedrive\documents\_college_\_s3_\[ std ]\mod5\mod5.cpp
+	"mod5.h"
+
+1666545740 source:c:\users\linta\onedrive\documents\_college_\_s3_\[ std ]\tp\mod5\mod5.cpp
+	"mod5.h"
+
+1666450506 c:\users\linta\onedrive\documents\_college_\_s3_\[ std ]\tp\mod5\mod5.h
+	<iostream>
+
+1666545859 source:c:\users\linta\onedrive\documents\_college_\_s3_\[ std ]\tp\mod5\main.cpp
+	"mod5.h"
+
